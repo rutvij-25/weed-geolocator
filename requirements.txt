@@ -6,6 +6,7 @@ plotly
 Pillow
 pandas
 numpy
-ultralytics
+ultralytics==8.1.42
+torch==2.1.0
 geopandas
 shapely
